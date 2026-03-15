@@ -58,20 +58,20 @@ The system can learn water consumption patterns and detect abnormal usage.
 
 
 Water Flow Sensor
-        │
-        ▼
+      │
+      ▼
 ESP32 Microcontroller
-        │
-        ▼
+      │
+      ▼
 Blynk Cloud
-        │
-        ▼
+      │
+      ▼
 Backend Server
-        │
-        ▼
+      │
+      ▼
 Firebase Database
-        │
-        ▼
+      │
+      ▼
 Frontend Dashboard
 
 
